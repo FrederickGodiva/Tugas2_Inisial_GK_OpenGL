@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(32,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(32,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(33,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(34,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(35,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(35,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(38,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(39,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(39,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(40,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(40,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(41,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(41,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(42,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\main.cpp(42,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TugasInisial.vcxproj -> D:\USU\Semester 3\Grafika Komputer\Project\Tugas2\TugasInisial\x64\Debug\TugasInisial.exe
